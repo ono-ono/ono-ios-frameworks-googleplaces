@@ -1,0 +1,24 @@
+/*
+  Localizable.strings
+  Google Places
+
+  Copyright © 2020 Ono. All rights reserved.
+*/
+
+/* */
+"StatusCode.ok" = "OK";
+
+/* */
+"StatusCode.zeroResults" = "No results.";
+
+/* */
+"StatusCode.overQueryLimit" = "Too many requests.";
+
+/* */
+"StatusCode.requestDenied" = "Unsupported request.";
+
+/* */
+"StatusCode.invalidRequest" = "Malformed request.";
+
+/* */
+"StatusCode.unknownError" = "Unknown error.";

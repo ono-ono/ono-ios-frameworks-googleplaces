@@ -1,0 +1,24 @@
+/*
+  Localizable.strings
+  Google Places
+
+  Copyright © 2020 Ono. All rights reserved.
+*/
+
+/* */
+"StatusCode.ok" = "OK";
+
+/* */
+"StatusCode.zeroResults" = "Nema rezultata.";
+
+/* */
+"StatusCode.overQueryLimit" = "Previše zahteva.";
+
+/* */
+"StatusCode.requestDenied" = "Nepodržan zahtev.";
+
+/* */
+"StatusCode.invalidRequest" = "Neispravan zahtev.";
+
+/* */
+"StatusCode.unknownError" = "Nepoznata greška.";

@@ -2,12 +2,12 @@ Pod::Spec.new do |spec|
   spec.name         = "GooglePlaces"
   spec.version      = "1.1"
   spec.summary      = "GooglePlaces API wrapper for iOS."
-  spec.description  = "Custom client for GooglePlaces API, to be used with Ono iOS apps."
-  spec.homepage     = "https"//git@github.com:ono-ono/ono-ios-frameworks-googleplaces"
-  spec.license      = { :type => "Commercial" }
+  spec.description  = "Custom client for GooglePlaces API - Ono Technologies"
+  spec.homepage     = "https://github.com/ono-ono/ono-ios-frameworks-googleplaces"
+  spec.license      = "MIT"
   spec.author             = { "Igor Tabački" => "Igor_tilt@yahoo.com" }
 
-  spec.source       = { :path => '.' }
+  spec.source       = { :git => "https://github.com/ono-ono/ono-ios-frameworks-googleplaces.git", :tag => "1.1" }
   spec.source_files  = ["GooglePlaces/**/*.swift", "Vendor/**/*.swift", "GooglePlaces/*.lproj/*.strings"]
   spec.swift_versions = ['5.0']
 

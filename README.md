@@ -40,4 +40,4 @@ This way, you only need to:
 - update one singular setting on the project
 - make git tag with that same change
 
-Then **make sure** to note in a comment – for each task you complete in JIRA – what version/builds are implementing the changes related to that task.
+Then **make sure** to note in a comment  – what version/builds are implementing the changes related to that.

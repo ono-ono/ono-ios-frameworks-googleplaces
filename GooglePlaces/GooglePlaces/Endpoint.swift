@@ -107,7 +107,6 @@ private extension Endpoint {
 
 		var arr: [URLQueryItem] = []
 		for (key, value) in params {
-			#warning("Possibly needed to apply percent-encoding to this value..?")
 			let v = String(describing: value)
 			let qi = URLQueryItem(name: key, value: v)
 			arr.append( qi )

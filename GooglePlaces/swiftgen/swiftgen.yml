@@ -1,0 +1,9 @@
+input_dir: ../GooglePlaces/
+output_dir: ../GooglePlaces/
+strings:
+  - inputs: en.lproj/Localizable.strings
+    outputs:
+      - templatePath: templates/strings.stencil
+        params:
+            enumName: Localized
+        output: LocalizedStrings.generated.swift

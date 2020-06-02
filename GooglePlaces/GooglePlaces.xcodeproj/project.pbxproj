@@ -26,6 +26,7 @@
 		6A33A68A2486CE10001F784B /* StatusCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A33A6832486CE10001F784B /* StatusCode.swift */; };
 		6A33A68B2486CE10001F784B /* PlacesError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A33A6842486CE10001F784B /* PlacesError.swift */; };
 		6A33A68D2486CF6C001F784B /* LocalizedStrings.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A33A68C2486CF6C001F784B /* LocalizedStrings.generated.swift */; };
+		6AA7AEB52486D98400883F58 /* GooglePlaces.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 6AA7AEB42486D98400883F58 /* GooglePlaces.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		6A33A6832486CE10001F784B /* StatusCode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusCode.swift; sourceTree = "<group>"; };
 		6A33A6842486CE10001F784B /* PlacesError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacesError.swift; sourceTree = "<group>"; };
 		6A33A68C2486CF6C001F784B /* LocalizedStrings.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LocalizedStrings.generated.swift; path = "../../../../AnnanowShop/annanow-ios-frameworks-googleplaces/GooglePlaces/LocalizedStrings.generated.swift"; sourceTree = "<group>"; };
+		6AA7AEB42486D98400883F58 /* GooglePlaces.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = GooglePlaces.podspec; path = ../GooglePlaces.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 		6A33A63F2486C3F4001F784B = {
 			isa = PBXGroup;
 			children = (
+				6AA7AEB42486D98400883F58 /* GooglePlaces.podspec */,
 				6A33A6572486CA6B001F784B /* swiftgen */,
 				6A33A6672486CD94001F784B /* Vendor */,
 				6A33A64B2486C3F4001F784B /* GooglePlaces */,
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A33A6602486CCB2001F784B /* Localizable.strings in Resources */,
+				6AA7AEB52486D98400883F58 /* GooglePlaces.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

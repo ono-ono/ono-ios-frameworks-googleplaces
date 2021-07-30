@@ -1,11 +1,3 @@
-//
-//  GooglePlaces.swift
-//  AnnanowShop
-//
-//  Created by Aleksandar Vacić on 6/14/19.
-//  Copyright © 2019 Annanow. All rights reserved.
-//
-
 import Foundation
 
 public final class PlacesService {

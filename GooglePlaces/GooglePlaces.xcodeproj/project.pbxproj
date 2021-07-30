@@ -25,7 +25,7 @@
 		6A33A6892486CE10001F784B /* PlaceType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A33A6822486CE10001F784B /* PlaceType.swift */; };
 		6A33A68A2486CE10001F784B /* StatusCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A33A6832486CE10001F784B /* StatusCode.swift */; };
 		6A33A68B2486CE10001F784B /* PlacesError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A33A6842486CE10001F784B /* PlacesError.swift */; };
-		6A33A68D2486CF6C001F784B /* LocalizedStrings.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A33A68C2486CF6C001F784B /* LocalizedStrings.generated.swift */; };
+		6A78313D26B402250079B946 /* LocalizedStrings.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A78313C26B402250079B946 /* LocalizedStrings.generated.swift */; };
 		6AA7AEB52486D98400883F58 /* GooglePlaces.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 6AA7AEB42486D98400883F58 /* GooglePlaces.podspec */; };
 /* End PBXBuildFile section */
 
@@ -53,7 +53,7 @@
 		6A33A6822486CE10001F784B /* PlaceType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceType.swift; sourceTree = "<group>"; };
 		6A33A6832486CE10001F784B /* StatusCode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusCode.swift; sourceTree = "<group>"; };
 		6A33A6842486CE10001F784B /* PlacesError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacesError.swift; sourceTree = "<group>"; };
-		6A33A68C2486CF6C001F784B /* LocalizedStrings.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LocalizedStrings.generated.swift; path = "../../../../AnnanowShop/annanow-ios-frameworks-googleplaces/GooglePlaces/LocalizedStrings.generated.swift"; sourceTree = "<group>"; };
+		6A78313C26B402250079B946 /* LocalizedStrings.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalizedStrings.generated.swift; sourceTree = "<group>"; };
 		6AA7AEB42486D98400883F58 /* GooglePlaces.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = GooglePlaces.podspec; path = ../GooglePlaces.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -92,7 +92,7 @@
 			children = (
 				6A33A64C2486C3F4001F784B /* GooglePlaces.h */,
 				6A33A64D2486C3F4001F784B /* Info.plist */,
-				6A33A68C2486CF6C001F784B /* LocalizedStrings.generated.swift */,
+				6A78313C26B402250079B946 /* LocalizedStrings.generated.swift */,
 				6A33A6622486CCB2001F784B /* Localizable.strings */,
 				6A33A6812486CE10001F784B /* Autocomplete.swift */,
 				6A33A6802486CE10001F784B /* Endpoint.swift */,
@@ -275,7 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A33A6852486CE10001F784B /* PlaceDetails.swift in Sources */,
-				6A33A68D2486CF6C001F784B /* LocalizedStrings.generated.swift in Sources */,
+				6A78313D26B402250079B946 /* LocalizedStrings.generated.swift in Sources */,
 				6A33A6892486CE10001F784B /* PlaceType.swift in Sources */,
 				6A33A67A2486CDFA001F784B /* LoggerType.swift in Sources */,
 				6A33A6792486CDFA001F784B /* Loggable.swift in Sources */,

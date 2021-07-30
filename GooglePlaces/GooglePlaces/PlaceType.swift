@@ -1,10 +1,3 @@
-//
-//  PlaceType.swift
-//  GooglePlaces
-//
-//  Copyright © 2019 Annanow. All rights reserved.
-//
-
 import Foundation
 
 ///	Possible place types to use in autocomplete requests.

@@ -1,10 +1,3 @@
-//
-//  StatusCode.swift
-//  GooglePlaces
-//
-//  Copyright © 2019 Annanow. All rights reserved.
-//
-
 import Foundation
 
 ///	Possible status codes for Places endpoints

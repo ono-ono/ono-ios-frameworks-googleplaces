@@ -1,10 +1,3 @@
-//
-//  PlacesError.swift
-//  GooglePlaces
-//
-//  Copyright © 2019 Annanow. All rights reserved.
-//
-
 import Foundation
 
 /**

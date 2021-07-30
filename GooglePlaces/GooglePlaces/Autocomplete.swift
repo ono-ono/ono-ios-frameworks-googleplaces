@@ -1,10 +1,3 @@
-//
-//  Autocomplete.swift
-//  GooglePlaces
-//
-//  Copyright © 2019 Annanow. All rights reserved.
-//
-
 import Foundation
 
 /**
@@ -20,7 +13,7 @@ public struct AutocompleteResponse: Decodable {
 }
 
 public struct AutocompletePrediction: Decodable {
-    public let id: String
+//    public let id: String
 
     ///	`description` contains the human-readable name for the returned result. For `establishment` results, this is usually the business name.
     public let description: String

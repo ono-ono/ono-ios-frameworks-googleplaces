@@ -12,17 +12,17 @@ public enum StatusCode: String, Decodable {
     public var localizedDescription: String {
         switch self {
         case .ok:
-            return Localized.StatusCode.ok
+            return "Localized.StatusCode.ok"
         case .zeroResults:
-            return Localized.StatusCode.zeroResults
+            return "Localized.StatusCode.zeroResults"
         case .overQueryLimit:
-            return Localized.StatusCode.overQueryLimit
+            return "Localized.StatusCode.overQueryLimit"
         case .requestDenied:
-            return Localized.StatusCode.requestDenied
+            return "Localized.StatusCode.requestDenied"
         case .invalidRequest:
-            return Localized.StatusCode.invalidRequest
+            return "Localized.StatusCode.invalidRequest"
         case .unknownError:
-            return Localized.StatusCode.unknownError
+            return "Localized.StatusCode.unknownError"
         }
     }
 }
